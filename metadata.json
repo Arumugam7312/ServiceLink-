@@ -1,0 +1,6 @@
+{
+  "name": "ServiceLink",
+  "description": "SaaS marketplace connecting customers with verified local service professionals with instant booking, job tracking, earnings analytics, and AI service matching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
